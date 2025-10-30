@@ -1,1 +1,1 @@
-# 4_Retrieval_Augmented_Generation_System
+# Retrieval_Augmented_Generation_System
